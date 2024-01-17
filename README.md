@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
 **wkdrudals/wkdrudals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
