@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apacheairflow-2496ED?style=flat&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-017CEE?style=flat&logo=docker&logoColor=white"/>
 
 **DBMS**<br>
