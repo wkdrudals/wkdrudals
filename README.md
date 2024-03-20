@@ -7,7 +7,8 @@
 
 **Platforms**<br>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> 
-<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/docker-017CEE?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/apacheairflow-2496ED?style=flat-square&logo=apacheairflow&logoColor=white"/>
 
 **DBMS**<br>
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
