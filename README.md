@@ -2,11 +2,9 @@
 
 ### Skills
 
-**Languages**<br>
+**Languages & Platforms**<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-
-**Platforms**<br>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apacheairflow-2496ED?style=flat&logo=apacheairflow&logoColor=white"/>
