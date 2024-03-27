@@ -21,6 +21,13 @@
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 
+**Project**<br>
+
+>1. Heart Project
+>2. Pyspark Mini Project
+>3. Poppin' Final Project
+
+
 
 <!--
 **wkdrudals/wkdrudals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
