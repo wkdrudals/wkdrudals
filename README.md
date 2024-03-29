@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=_custom_gradient&color=50:BF94E4,50:a82da8&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ### Skills
 
 **Languages & Platforms**<br>
