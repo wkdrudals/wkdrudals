@@ -6,12 +6,13 @@
 **Languages & Platforms**<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apacheairflow-2496ED?style=flat&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-017CEE?style=flat&logo=docker&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 **DBMS**<br>
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
 
@@ -82,6 +83,14 @@
 <summary>2. Pyspark Mini Project</summary>
 
 ## 1. 프로젝트 개요
+
+## 기술 스텍
+<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 
 [주제]
 > 경찰청_습득물정보 조회 서비스 Api를 활용하여 데이터 적재 및 pyspark 분석
