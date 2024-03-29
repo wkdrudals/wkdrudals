@@ -28,7 +28,7 @@
 >2. Pyspark Mini Project
 
 <details>
-<summary>>3. Poppin' Final Project</summary>
+<summary>3. Poppin' Final Project</summary>
 # :pushpin: POPPIN'
 
 ![image](https://github.com/kim-edwin/repopoppin-frontend/assets/113911630/39e24ab1-09e6-40f9-aba6-2f039c954e34)
