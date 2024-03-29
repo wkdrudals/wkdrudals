@@ -94,14 +94,12 @@
 <details>
 <summary>이력서 페이지</summary>
     
-![Group 13](https://github.com/wkdrudals/wkdrudals/assets/145821505/e979eb52-9151-4011-91df-07bebfa5bb40)
-</details>
+![image (4)](https://github.com/wkdrudals/wkdrudals/assets/145821505/d8b133e8-3241-4928-8574-9f85fe4e2f32)
 
 <details>
 <summary>이력서 페이지 하트찍기</summary>
     
-![Group 14](https://github.com/wkdrudals/wkdrudals/assets/145821505/e0479a0d-99c4-4e03-9124-b13044b35d16)
-</details>
+![image (5)](https://github.com/wkdrudals/wkdrudals/assets/145821505/7277632a-6526-46f3-8bb2-3aa2aa4bc140)
 
 <br/>
 <br/>
