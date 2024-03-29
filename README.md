@@ -30,6 +30,9 @@
 
 ♥️[Heart Project Repositories](https://github.com/kim-edwin/RepoHeart.git)
 
+[역할담당 - html](https://github.com/kim-edwin/RepoHeart/tree/main/heart/src/main/resources/templates)
+[역할담당 - css](https://github.com/kim-edwin/RepoHeart/tree/main/heart/src/main/resources/static/css)
+
 ## 기술 스텍
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
