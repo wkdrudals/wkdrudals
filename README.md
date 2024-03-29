@@ -52,7 +52,7 @@
     - 시각화도구 : Tableau Public
 <br/>
 <br/>
-## 3. 분석 Flow
+## 3. 분석 flow
 
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
