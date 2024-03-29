@@ -37,8 +37,10 @@
 (2023. 01 ~ 2024. 01) 총 13개월 분량
 
 참고사이트:기상데이터(https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179)
+
 <br/>
 <br/>
+
 ## 2. 분석 아키텍처
 
 - OS : AWS (ubuntu) t2.large * 3
@@ -51,8 +53,10 @@
 - 분석도구 : JupyterLab(python, pyspark)<br>
 - Api : [경찰청_습득물정보 조회 서비스](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058696), 카카오 맵 api<br>
     - 시각화도구 : Tableau Public
+      
 <br/>
 <br/>
+
 ## 3. 분석 flow
 
 1. 데이터 수집 및 적재
@@ -69,14 +73,17 @@
     b. pyspark 분석<br>
 3. 시각화<br>
     a. tableau public<br>
+    
 <br/>
 <br/>
+
 ## 4. 대시보드 시연
 
 >https://public.tableau.com/app/profile/hyeonu.kim5342/viz/23_17062509031730/sheet0
 
 <br/>
 <br/>
+
 ## 5. 트러블슈팅
 
 - AWS EMR의 운영체제가 익숙하던 ubuntu가 아니어서 당황스러웠음<br>
@@ -89,6 +96,7 @@
     - 카카오 api의 검색기능을 이용하면 POI를 input했을 때 각종 검색결과들의 주소를 return 받을 수 있었고, 첫번째 장소의 주소를 저장하는 방식으로 구현하였음<br>
     - 그러나, 주소의 형식이 랜덤하게 지번 주소 또는 도로명 주소로 저장되어 일정하지 않았음. (두번째 장소까지 받아온 다음에 지번 주소만 저장하는 방식으로 구현하였으나 예외가 너무 많았음)<br>
     - 아쉽지만 구 단위 분석으로 기획 변경<br>
+    
 <br/>
 <br/>
 </details> 
