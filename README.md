@@ -53,6 +53,7 @@
 <br/>
 <br/>
 ## 3. 분석 Flow
+
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
    <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca">
