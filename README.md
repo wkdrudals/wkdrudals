@@ -40,6 +40,7 @@
 <br/>
 <br/>
 ## 2. 분석 아키텍처
+
 - OS : AWS (ubuntu) t2.large * 3
 ![Untitled](https://github.com/wkdrudals/wkdrudals/assets/145821505/7c3605d7-9aba-48ef-af88-7911b8574bc4)
 
@@ -53,6 +54,7 @@
 <br/>
 <br/>
 ## 3. 분석 flow<br>
+
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
    <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca"><br>
@@ -70,11 +72,13 @@
 <br/>
 <br/>
 ## 4. 대시보드 시연<br>
+
 >https://public.tableau.com/app/profile/hyeonu.kim5342/viz/23_17062509031730/sheet0
 
 <br/>
 <br/>
 ## 5. 트러블슈팅 <br>
+
 - AWS EMR의 운영체제가 익숙하던 ubuntu가 아니어서 당황스러웠음<br>
     - AMI 이미지로 output해서 3개의 노드로 연결하는 방식으로 구조를 변경하였습니다.<br>
 - Spark 구동에 필요한 파이썬 버전이 메인노드와 워커노드가 달랐음<br>
