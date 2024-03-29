@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://Gyeongmin's-Github.vercel.app/api?type=venom&color=autoheight=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=autoheight=300&section=header&text=Gyeongmin's%20render&fontSize=90" />
 
 ### Skills
 
