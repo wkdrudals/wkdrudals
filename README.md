@@ -35,10 +35,56 @@
 [주제]
 > 경찰청_습득물정보 조회 서비스 Api를 활용하여 데이터 적재 및 pyspark 분석
 (2023. 01 ~ 2024. 01) 총 13개월 분량
+
 참고사이트:기상데이터(https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179)
+<br/>
+<br/>
+## 2. 분석 아키텍처
+- OS : AWS (ubuntu) t2.large * 3
+![Untitled](https://github.com/wkdrudals/wkdrudals/assets/145821505/7c3605d7-9aba-48ef-af88-7911b8574bc4)
 
+- 저장소 : Hadoop
+![Untitled (1)](https://github.com/wkdrudals/wkdrudals/assets/145821505/ce84857a-5d83-4005-985f-f1ba10b7036b)
+<img width="589" alt="Untitled (2)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/52f5410e-68ed-454e-8d73-d08d76432199">
+<img width="573" alt="Untitled (3)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/e7de35bd-4273-47e0-987e-fd944ca03686">
+- 분석도구 : JupyterLab(python, pyspark)
+- Api : [경찰청_습득물정보 조회 서비스](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058696), 카카오 맵 api
+- 시각화도구 : Tableau Public
+<br/>
+<br/>
+## 3. 분석 Flow
+1. 데이터 수집 및 적재
+    a. Id 수집 → hdfs 적재
+   <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca">
+   b.수집된 id 기반 상세정보 수집 → hdfs 적재
+   <img width="582" alt="Untitled (5)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/ce9e5ffc-f628-4459-a2e7-42ee0df3ca32">
 
+1. 데이터 전처리
+    a. 컬럼 분할
+    b. 도로명주소 변환 api 적용
+2. 데이터 분석 
+    a. 외부 기상데이터 병합
+    b. pyspark 분석
+3. 시각화
+    a. tableau public
+<br/>
+<br/>
+## 4. 대시보드 시연
+https://public.tableau.com/app/profile/hyeonu.kim5342/viz/23_17062509031730/sheet0
 
+## 5. 트러블슈팅 
+- AWS EMR의 운영체제가 익숙하던 ubuntu가 아니어서 당황스러웠음
+    - AMI 이미지로 output해서 3개의 노드로 연결하는 방식으로 구조를 변경하였습니다.
+- Spark 구동에 필요한 파이썬 버전이 메인노드와 워커노드가 달랐음
+    - 메인노드(client)에만 conda를 써서 발생한 문제. 가상환경의 파이썬 버전을 다운그레이드하고 주피터를 재설치하여 해결
+- 정확한 주소로 변환하는 api를 찾기 어려웠음
+    - 최초 기획은 구 단위가 아닌 동 단위 수준까지 수집하는 것이 목표였음.
+    - POI를 input하면 정확한 지번주소로 return 하는 api가 필요했지만, 대개는 기업 상대로 제공하는 유료 api였음
+    - 카카오 api의 검색기능을 이용하면 POI를 input했을 때 각종 검색결과들의 주소를 return 받을 수 있었고, 첫번째 장소의 주소를 저장하는 방식으로 구현하였음
+    - 그러나, 주소의 형식이 랜덤하게 지번 주소 또는 도로명 주소로 저장되어 일정하지 않았음. (두번째 장소까지 받아온 다음에 지번 주소만 저장하는 방식으로 구현하였으나 예외가 너무 많았음)
+    - 아쉽지만 구 단위 분석으로 기획 변경
+<br/>
+<br/>
 </details> 
 
 <details>
