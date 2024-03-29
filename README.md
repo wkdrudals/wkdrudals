@@ -100,11 +100,12 @@
 <summary>이력서 페이지 하트찍기</summary>
     
 ![image (5)](https://github.com/wkdrudals/wkdrudals/assets/145821505/7277632a-6526-46f3-8bb2-3aa2aa4bc140)
-
-<br/>
-<br/>
+</details> 
 
 </details> 
+
+<br/>
+<br/>
 
 <details>
 <summary>2. Pyspark Mini Project</summary>
