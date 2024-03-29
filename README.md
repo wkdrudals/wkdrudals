@@ -30,11 +30,14 @@
 [주제]
 > 채용 프로세스를 개선하자 : 역방향 채용 플랫폼
 
+<br/>
+<br/>
+
 ## 2. 프로젝트 화면
 
-<summary>[검색실패]</summary>
+[검색실패]
 ![검색 실패](https://github.com/wkdrudals/wkdrudals/assets/145821505/29ec9900-8262-4b4b-9f82-659a691c99cc)
-<details>
+
 [회원가입]
 ![회원가입](https://github.com/wkdrudals/wkdrudals/assets/145821505/b58a938e-2ae9-458e-975e-17ce37b4d996)
 
@@ -60,11 +63,8 @@
 [이력서 페이지 하트찍기]
 ![이력서 페이지(하트 찍기)](https://github.com/wkdrudals/wkdrudals/assets/145821505/a34c5cee-9078-4ecb-a173-283f9cdff002)
 
-
-
-
-
-
+<br/>
+<br/>
 
 </details> 
 
