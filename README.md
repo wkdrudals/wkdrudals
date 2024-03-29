@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Skills
 
 **Languages & Platforms**<br>
@@ -24,6 +24,11 @@
 **Project**<br>
 <details>
 <summary>1. Heart Project</summary>
+
+Heart Project Repositories(https://github.com/kim-edwin/RepoHeart.git)
+
+## 기술 스텍
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 
 ## 1. 프로젝트 개요
 
