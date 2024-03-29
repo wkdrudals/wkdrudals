@@ -55,18 +55,18 @@
 ## 3. 분석 flow<br>
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
-   <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca">
+   <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca"><br>
    b.수집된 id 기반 상세정보 수집 → hdfs 적재
    <img width="582" alt="Untitled (5)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/ce9e5ffc-f628-4459-a2e7-42ee0df3ca32">
 
-1. 데이터 전처리
-    a. 컬럼 분할
-    b. 도로명주소 변환 api 적용
-2. 데이터 분석 
-    a. 외부 기상데이터 병합
-    b. pyspark 분석
-3. 시각화
-    a. tableau public
+1. 데이터 전처리<br>
+    a. 컬럼 분할<br>
+    b. 도로명주소 변환 api 적용<br>
+2. 데이터 분석 <br>
+    a. 외부 기상데이터 병합<br>
+    b. pyspark 분석<br>
+3. 시각화<br>
+    a. tableau public<br>
 <br/>
 <br/>
 ## 4. 대시보드 시연
