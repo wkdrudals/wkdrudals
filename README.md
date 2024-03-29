@@ -53,7 +53,7 @@
     - 시각화도구 : Tableau Public
 <br/>
 <br/>
-## 3. 분석 flow<br>
+## 3. 분석 flow
 
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
@@ -71,13 +71,13 @@
     a. tableau public<br>
 <br/>
 <br/>
-## 4. 대시보드 시연<br>
+## 4. 대시보드 시연
 
 >https://public.tableau.com/app/profile/hyeonu.kim5342/viz/23_17062509031730/sheet0
 
 <br/>
 <br/>
-## 5. 트러블슈팅 <br>
+## 5. 트러블슈팅
 
 - AWS EMR의 운영체제가 익숙하던 ubuntu가 아니어서 당황스러웠음<br>
     - AMI 이미지로 output해서 3개의 노드로 연결하는 방식으로 구조를 변경하였습니다.<br>
