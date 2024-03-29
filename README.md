@@ -26,10 +26,15 @@
 <details>
 <summary>1. Heart Project</summary>
 
-Heart Project Repositories(https://github.com/kim-edwin/RepoHeart.git)
+♥️[Heart Project Repositories](https://github.com/kim-edwin/RepoHeart.git)
 
 ## 기술 스텍
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-ff0000?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
 
 ## 1. 프로젝트 개요
 
