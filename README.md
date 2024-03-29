@@ -57,11 +57,10 @@
 ![이력서 업로드](https://github.com/wkdrudals/wkdrudals/assets/145821505/2829cba1-2aeb-457c-ab5e-736877ef927a)
 
 [이력서 페이지]
-![이력서 페이지](https://github.com/wkdrudals/wkdrudals/assets/145821505/423bbf65-1f5b-4d8d-9b0a-3420b8ba8ef0)
 
 
 [이력서 페이지 하트찍기]
-![이력서 페이지(하트 찍기)](https://github.com/wkdrudals/wkdrudals/assets/145821505/a34c5cee-9078-4ecb-a173-283f9cdff002)
+
 
 <br/>
 <br/>
