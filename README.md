@@ -27,7 +27,8 @@
 
 >2. Pyspark Mini Project
 
->3. Poppin' Final Project
+<details>
+<summary>>3. Poppin' Final Project</summary>
 # :pushpin: POPPIN'
 
 ![image](https://github.com/kim-edwin/repopoppin-frontend/assets/113911630/39e24ab1-09e6-40f9-aba6-2f039c954e34)
@@ -228,7 +229,7 @@ API --> W(Web Client)
 
 ### 피드백영상
 [![Video Label](http://img.youtube.com/vi/D_p8ycRy0HM/0.jpg)](https://youtu.be/D_p8ycRy0HM)
-
+</details>
 
 
 <!--
