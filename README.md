@@ -49,32 +49,50 @@
 
 ## 2. 프로젝트 화면
 
-[검색실패]
+<details>
+<summary>검색실패</summary>
 ![검색 실패](https://github.com/wkdrudals/wkdrudals/assets/145821505/29ec9900-8262-4b4b-9f82-659a691c99cc)
+</details>
 
-[회원가입]
+<details>
+<summary>회원가입</summary>
 ![회원가입](https://github.com/wkdrudals/wkdrudals/assets/145821505/b58a938e-2ae9-458e-975e-17ce37b4d996)
+</details>
 
-[로그인]
+<details>
+<summary>로그인</summary>
 ![로그인](https://github.com/wkdrudals/wkdrudals/assets/145821505/251973d8-dcb5-4773-b3a0-0d2de0cd755e)
+</details>
 
-[메인화면]
+<details>
+<summary>메인화면</summary>
 ![메인화면](https://github.com/wkdrudals/wkdrudals/assets/145821505/69f38c33-4145-4cb2-a345-eab184c225ad)
+</details>
 
-[이력서 검색결과]
+<details>
+<summary>이력서 검색결과</summary>
 ![이력서 검색결과](https://github.com/wkdrudals/wkdrudals/assets/145821505/56d623f0-b725-430a-998f-f260e2aa5c20)
+</details>
 
-[이력서 리스트]
+<details>
+<summary>이력서 리스트</summary>
 ![이력서 리스트](https://github.com/wkdrudals/wkdrudals/assets/145821505/dd2abb70-44f9-415d-9bdb-b899a5ca1221)
+</details>
 
-[이력서 업로드]
+<details>
+<summary>이력서 업로드</summary>
 ![이력서 업로드](https://github.com/wkdrudals/wkdrudals/assets/145821505/2829cba1-2aeb-457c-ab5e-736877ef927a)
+</details>
 
-[이력서 페이지]
+<details>
+<summary>이력서 페이지</summary>
+![Group 13](https://github.com/wkdrudals/wkdrudals/assets/145821505/e979eb52-9151-4011-91df-07bebfa5bb40)
+</details>
 
-
-[이력서 페이지 하트찍기]
-
+<details>
+<summary>이력서 페이지 하트찍기</summary>
+![Group 14](https://github.com/wkdrudals/wkdrudals/assets/145821505/e0479a0d-99c4-4e03-9124-b13044b35d16)
+</details>
 
 <br/>
 <br/>
