@@ -25,6 +25,11 @@
 <details>
 <summary>1. Heart Project</summary>
 
+## 1. 프로젝트 개요
+
+[주제]
+> 채용 프로세스를 개선하자 : 역방향 채용 플랫폼
+
 </details> 
 
 <details>
