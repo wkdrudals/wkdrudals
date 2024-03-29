@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/trello-0052CC?style=flat&logo=trello&logoColor=white"/>
 
 **Project**<br>
 <details>
