@@ -95,6 +95,7 @@
 <summary>이력서 페이지</summary>
     
 ![image (4)](https://github.com/wkdrudals/wkdrudals/assets/145821505/d8b133e8-3241-4928-8574-9f85fe4e2f32)
+</details> 
 
 <details>
 <summary>이력서 페이지 하트찍기</summary>
