@@ -40,19 +40,20 @@
 <br/>
 <br/>
 ## 2. 분석 아키텍처
-- OS : AWS (ubuntu) t2.large * 3
+    - OS : AWS (ubuntu) t2.large * 3
 ![Untitled](https://github.com/wkdrudals/wkdrudals/assets/145821505/7c3605d7-9aba-48ef-af88-7911b8574bc4)
 
-- 저장소 : Hadoop
+    - 저장소 : Hadoop
 ![Untitled (1)](https://github.com/wkdrudals/wkdrudals/assets/145821505/ce84857a-5d83-4005-985f-f1ba10b7036b)
 <img width="589" alt="Untitled (2)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/52f5410e-68ed-454e-8d73-d08d76432199">
 <img width="573" alt="Untitled (3)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/e7de35bd-4273-47e0-987e-fd944ca03686"><br>
-- 분석도구 : JupyterLab(python, pyspark)<br>
-- Api : [경찰청_습득물정보 조회 서비스](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058696), 카카오 맵 api<br>
-- 시각화도구 : Tableau Public
+    - 분석도구 : JupyterLab(python, pyspark)<br>
+    - Api : [경찰청_습득물정보 조회 서비스](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058696), 카카오 맵 api<br>
+    - 시각화도구 : Tableau Public
 <br/>
 <br/>
 ## 4. 분석 Flow
+
 1. 데이터 수집 및 적재
     a. Id 수집 → hdfs 적재
    <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca">
