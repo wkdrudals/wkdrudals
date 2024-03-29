@@ -107,7 +107,6 @@
 
 <br/>
 <br/>
-
 <details>
 <summary>2. Pyspark Mini Project</summary>
 
