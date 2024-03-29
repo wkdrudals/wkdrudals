@@ -60,9 +60,9 @@
 ## 3. 분석 flow
 
 1. 데이터 수집 및 적재
-    a. Id 수집 → hdfs 적재
+    a. Id 수집 → hdfs 적재<br>
    <img width="573" alt="Untitled (4)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/8dd5f0a1-4091-4c4f-aff0-e6fc025729ca"><br>
-   b.수집된 id 기반 상세정보 수집 → hdfs 적재
+   b.수집된 id 기반 상세정보 수집 → hdfs 적재<br>
    <img width="582" alt="Untitled (5)" src="https://github.com/wkdrudals/wkdrudals/assets/145821505/ce9e5ffc-f628-4459-a2e7-42ee0df3ca32">
 
 1. 데이터 전처리<br>
