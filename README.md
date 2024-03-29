@@ -82,8 +82,6 @@
 <details>
 <summary>2. Pyspark Mini Project</summary>
 
-## 1. 프로젝트 개요
-
 ## 기술 스텍
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -91,6 +89,9 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+
+## 1. 프로젝트 개요
 
 [주제]
 > 경찰청_습득물정보 조회 서비스 Api를 활용하여 데이터 적재 및 pyspark 분석
