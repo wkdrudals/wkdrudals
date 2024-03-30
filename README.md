@@ -24,6 +24,9 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/trello-0052CC?style=flat&logo=trello&logoColor=white"/>
 
+**SNS**<br>
+<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>(https://velog.io/@minee/posts)
+
 **Project**<br>
 <details>
 <summary>1. Heart Project</summary>
