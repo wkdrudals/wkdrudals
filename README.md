@@ -55,9 +55,10 @@
 <br/>
 <br/>
 
-<details>
-<summary>## 2. 프로젝트 화면</summary>
+## 2. 프로젝트 화면
 
+<details>
+<summary>화면 이미지</summary>
 - 검색실패
     
 ![검색 실패](https://github.com/wkdrudals/wkdrudals/assets/145821505/29ec9900-8262-4b4b-9f82-659a691c99cc)
@@ -79,11 +80,9 @@
     
 ![이력서 검색결과](https://github.com/wkdrudals/wkdrudals/assets/145821505/56d623f0-b725-430a-998f-f260e2aa5c20)
 
-
 - 이력서 리스트
     
 ![이력서 리스트](https://github.com/wkdrudals/wkdrudals/assets/145821505/dd2abb70-44f9-415d-9bdb-b899a5ca1221)
-
 
 - 이력서 업로드
     
@@ -97,10 +96,10 @@
     
 ![image (5)](https://github.com/wkdrudals/wkdrudals/assets/145821505/7277632a-6526-46f3-8bb2-3aa2aa4bc140)
 
-</details>
-<br/>
-<br/>
 
+<br/>
+<br/>
+</details>
 
 <details>
 <summary>2. Pyspark Mini Project</summary>
