@@ -31,6 +31,7 @@
 
 
 # **Project**<br>
+
 <details>
 <summary>1. Heart Project</summary>
 
@@ -96,6 +97,7 @@
     
 ![image (5)](https://github.com/wkdrudals/wkdrudals/assets/145821505/7277632a-6526-46f3-8bb2-3aa2aa4bc140)
 
+</details>
 
 <br/>
 <br/>
