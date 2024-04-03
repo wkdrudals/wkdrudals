@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apacheairflow-2496ED?style=flat&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+
 
 **Experience**<br>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
